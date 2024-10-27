@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 100px auto;
+    text-align: center;
+    background-color: rgba(180, 92, 92, 0.35);
+  }
+  .header h1 {
+    color: green;
+  }
+  .header h2 {
+    margin: 20px 0;
+    color: red;
+  }
+  .box {
+    margin-top: 30px;
+  }
+  input {
+    padding: 10px;
+  }
+  button {
+    padding: 5px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
